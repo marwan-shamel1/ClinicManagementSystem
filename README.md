@@ -18,18 +18,26 @@ Validates user input for patient details to ensure correctness.
 Menu-driven Interface:
 Presents a user-friendly menu interface for interacting with the clinic system.
 Allows users to perform various operations by selecting options from the menu.
+
+
 How to Use:
 
 Add Patient:
 Enter patient details such as name, age, gender, and condition.
 The patient will be added to the system.
+
+
 View Patients:
 Displays a list of all patients along with their details and treatment status.
 Mark Patient as Completed:
 Enter the index of the patient to mark as completed.
 Enter the new treatment status for the patient (e.g., Treated, Completed).
+
+
 Remove Patient:
 Enter the index of the patient to remove from the system.
+
+
 Exit:
 Quits the program.
 Data Persistence:
